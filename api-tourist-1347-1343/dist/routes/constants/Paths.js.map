@@ -1,0 +1,1 @@
+{"version":3,"file":"Paths.js","sourceRoot":"","sources":["../../../app/routes/constants/Paths.ts"],"names":[],"mappings":";AAAA;;GAEG;;AAIH,MAAM,KAAK,GAAG;IACZ,IAAI,EAAE,MAAM;IACZ,IAAI,EAAE;QACJ,IAAI,EAAE,OAAO;KACd;IACD,KAAK,EAAE;QACL,IAAI,EAAE,OAAO;QACb,MAAM,EAAE,QAAQ;QAChB,KAAK,EAAE,OAAO;KACf;CACF,CAAC;AAGF,kBAAe,KAAe,CAAC"}
